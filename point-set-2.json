@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "sourceDOI": "10.1007/s10750-010-0452-z",
+        "name": "(unnamed)",
+        "description": "Member of the set of lakes that were sampled from. This is one of the points represented in figure one of cited paper.",
+        "id": "id0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6824188232422,
+          -40.72228267283148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sourceDOI": "10.1007/s10750-010-0452-z",
+        "name": "Lake Otuhie",
+        "description": "Member of the set of lakes that were sampled from. This is one of the points represented in figure one of cited paper.",
+        "id": "id1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.4197769165039,
+          -40.686756214022935
+        ]
+      }
+    }
+  ]
+}
